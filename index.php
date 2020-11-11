@@ -1,7 +1,7 @@
 <?php
 
 
-echo "Repositório GIT";
+echo "Repositório GIT retornado";
 
 
 ?>
